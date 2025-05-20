@@ -15,7 +15,7 @@ subscribers can post tasks and receive reminders of those tasks.
 If this topic doesn't tell you what you want to know about
 the To-Do service, try one of these overview topics.
 
-* [_Placeholder_](./overviews/placeholder.md)
+* [_Placeholder_](./overviews/to-do-overview_rachaelallen91.md)
 
 ## Quickstart
 
