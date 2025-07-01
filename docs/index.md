@@ -4,7 +4,7 @@ layout: page
 
 # To-Do service API
 
-This is a mock API to simulate the REST interface of an
+This mock API simulates the REST interface of an
 imaginary service.
 
 The To-Do service provides a cloud-hosted task list through which
@@ -19,7 +19,7 @@ the To-Do service, try one of these overview topics.
 
 ## Quickstart
 
-[Post your first task _(coming soon)_](#quickstart) with the To-Do service to see how easy it is to use!
+[Post your first task](#quickstart) with the To-Do service!
 
 ## Tutorials
 
@@ -33,8 +33,8 @@ After your system is ready, these tutorials show you how to perform common tasks
 
 * [Enroll a new user](tutorials/enroll-a-new-user.md)
 * [Add a new task](tutorials/add-a-new-task.md)
-* [Change the due-date of a task _(coming soon)_](#tutorials)
-* [Delete a task _(coming soon)_](#tutorials)
+* [Change the due-date of a task](#tutorials)
+* [Delete a task](#tutorials)
 
 ## API reference docs
 
