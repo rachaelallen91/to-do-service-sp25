@@ -4,7 +4,8 @@ layout: page
 
 # Update user by ID
 
-Updates a [`user`](user.md) record specified by the `userId` path parameter. The request must include the full user object. Any fields omitted from the request will be removed from the updated user.
+Updates a [`user`](user.md) record specified by the `userId` path parameter.
+The request must include the complete `user` resource, otherwise it removes the missing fields from the `user` resource.
 
 ## URL
 
@@ -25,8 +26,9 @@ Updates a [`user`](user.md) record specified by the `userId` path parameter. The
 | `Content-Type`   | `application/json` | Indicates the request body format is JSON |
 
 ## Request body
+The request body must contain the complete user object.
+The request must include the complete `user` resource, otherwise it removes the missing fields from the `user` resource.
 
-The request body must contain the complete user object. Any missing properties will be removed from the stored record.
 
 ```json
 {
